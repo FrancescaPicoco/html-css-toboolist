@@ -4,7 +4,7 @@ box-sizing: border-box;
 font-family: Verdana, Tahoma, sans-serif;
 }
 body{
-background-color: rgb(176, 178, 179);
+background-color: rgb(209, 212, 214);
 }
 header{
 height: 80px;
@@ -22,9 +22,9 @@ font-size: 50px;
 display: inline-block;
 }
 main{
-    background-color: white;
-    width: 70%;
-    margin: auto;
+background-color: white;
+width: 70%;
+margin: auto;
 }
 .push{
 height: 40px;
@@ -49,6 +49,36 @@ height: 30px;
 .task , .today , .upcoming{
 padding: 40px;
 }
-span{
-    
+.edit{
+border-radius: 7px;
+background-color: #47A9E8;
+color:white;
+font-size: 10px;
+}
+.goal{
+background-color:#9C72E3;
+color:white;
+font-size: 10px;
+border-radius: 7px;
+}
+.recruit{
+background-color:#63BEA9;
+color:white;
+font-size: 10px;
+border-radius: 7px;
+}
+.mobile{
+background-color:#F39C34;
+color:white;
+font-size: 10px;
+border-radius: 7px;
+}
+.check{
+list-style-image: url(img/mark.ico);
+}
+.xmark{
+list-style-image: url(img/xmark.ico);
+}
+li {
+    margin: 15px 0 0 15px;
 }
