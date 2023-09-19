@@ -1,10 +1,14 @@
 *{
 margin:0;
 box-sizing: border-box;
+font-family: Verdana, Tahoma, sans-serif;
+}
+body{
+background-color: rgb(176, 178, 179);
 }
 header{
 height: 80px;
-background-color: rgb(24, 128, 93);
+background-color: white;
 margin-bottom: 50px;
 }
 .logotext{
@@ -14,15 +18,37 @@ img{
 height: 70px;
 }
 h1{
-font-family: Verdana, Tahoma, sans-serif;
 font-size: 50px;
 display: inline-block;
 }
 main{
-    background-color: antiquewhite;
+    background-color: white;
     width: 70%;
     margin: auto;
 }
+.push{
+height: 40px;
+padding-left: 40px;
+padding-top: 7px;
+}
+.uno{
+background-color: #47A9E8;
+color: aliceblue;
+border: none;
+}
+.due{
+background-color: azure;
+color: gray;
+border: 1px solid rgb(134, 135, 137);
+}
+.button{
+border-radius: 7px;
+width: 130px;
+height: 30px;
+}
 .task , .today , .upcoming{
-padding: 50px;
+padding: 40px;
+}
+span{
+    
 }
