@@ -1,10 +1,10 @@
 *{
 margin:0;
 box-sizing: border-box;
-font-family: Verdana, Tahoma, sans-serif;
+font-family: 'Comfortaa', cursive;
 }
 body{
-background-color: rgb(209, 212, 214);
+background-color: rgb(230, 232, 234);
 }
 header{
 height: 80px;
@@ -27,9 +27,9 @@ width: 70%;
 margin: auto;
 }
 .push{
-height: 40px;
+height: 50px;
 padding-left: 40px;
-padding-top: 7px;
+padding-top: 9px;
 }
 .uno{
 background-color: #47A9E8;
