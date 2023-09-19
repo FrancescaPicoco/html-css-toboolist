@@ -11,15 +11,14 @@ height: 80px;
 background-color: white;
 margin-bottom: 50px;
 }
-.logotext{
-vertical-align: middle;
-}
 img{
 height: 70px;
+vertical-align: middle;
 }
 h1{
 font-size: 50px;
 display: inline-block;
+vertical-align: middle;
 }
 main{
 background-color: white;
