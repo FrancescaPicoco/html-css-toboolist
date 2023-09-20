@@ -20,6 +20,9 @@ font-size: 50px;
 display: inline-block;
 vertical-align: middle;
 }
+.logotext{
+padding-left: 50px;
+}
 main{
 background-color: white;
 width: 55%;
